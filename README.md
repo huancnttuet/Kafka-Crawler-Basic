@@ -11,8 +11,7 @@
    `On Window`
 
    + Giải nén `kafka_2.12-2.4.1.tgz` trong project
-   + `cd kafka_2.12-2.4.1` 
-   + `cd bin\windows` 
+   + `cd kafka_2.12-2.4.1/bin/windows` 
    + Chạy server (chạy song song 2 cmd):
 	
       .../kafka_2.12-2.4.1/bin/windows>`zookeeper-server-start.bat config/zookeeper.properties`
