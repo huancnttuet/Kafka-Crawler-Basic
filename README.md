@@ -6,7 +6,9 @@
 
 1. Cài và chạy Kafka :
    [Link tải cài và chạy kafka](https://kafka.apache.org/quickstart)
-   `On Window` 
+
+   `On Window`
+    
    + Giải nén `kafka_2.12-2.4.1.tgz` trong project
    + `cd kafka_2.12-2.4.1` 
    + `cd bin\windows` 
