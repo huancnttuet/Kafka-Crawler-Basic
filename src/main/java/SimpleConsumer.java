@@ -26,9 +26,9 @@ public class SimpleConsumer {
                     // print the offset,key and value for the consumer records.
                     System.out.printf("offset = %d, key = %s, value = %s\n",
                             record.offset(), record.key(), record.value());
-//                String url = record.value();
-//                Crawler c1 = new Crawler();
-//                c1.crawling(url);
+                    String url = record.value();
+                    Crawler c1 = new Crawler();
+                    c1.crawling(url);
                 }
             }
         } finally {
