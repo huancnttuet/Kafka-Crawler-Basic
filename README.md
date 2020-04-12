@@ -14,9 +14,9 @@
    + `cd bin\windows` 
    + Chạy server (chạy song song 2 cmd):
 
-   `zookeeper-server-start.bat config/zookeeper.properties`
+      `zookeeper-server-start.bat config/zookeeper.properties`
    
-   `kafka-server-start.bat config/server.properties`
+      `kafka-server-start.bat config/server.properties`
 
 2. Tạo Producer và đẩy message lên topic:
    Chạy file `SimpleProducer.java`
