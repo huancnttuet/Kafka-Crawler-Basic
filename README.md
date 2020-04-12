@@ -19,7 +19,9 @@
    		`kafka-server-start.bat config/server.properties`
 
 2. Tạo Producer và đẩy message lên topic:
-   Chạy file `SimpleProducer.java`
+	
+	Chạy file `SimpleProducer.java`
 
 3. Tạo Consumer và lấy message từ topic:
-   Chạy file `SimpleConsumer.java`
+	
+	Chạy file `SimpleConsumer.java`
