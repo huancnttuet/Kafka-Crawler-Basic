@@ -4,7 +4,7 @@
 ## Kafka 2.12-2.4.1	
 1. Cài và chạy Kafka :
 	`https://kafka.apache.org/quickstart`
-	On Win:
+  -On Win:
 	+ Giải nén file `kafka_2.12-2.4.1.tgz` trong thư mục
 	+ `cd kafka_2.12-2.4.1`
 	+ `cd bin\windows`
